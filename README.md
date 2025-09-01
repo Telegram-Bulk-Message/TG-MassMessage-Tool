@@ -1,9 +1,9 @@
 # TG-MassMessage-Tool
 A tool for Telegram to manage all messages at once easily. Easy to use, noob-friendly and maintained for lifetime.
 
-#### GET TOOL HERE: https://shorturl.at/CjaQr
+#### GET TOOL HERE: https://shorturl.at/yxWGr
 
-Feel free to contact us for any questions: https://shorturl.at/t0AKu
+Feel free to contact us for any questions: https://shorturl.at/ZJHUf
 
 <img src='UI1.png' width='450'>
 
@@ -36,9 +36,9 @@ Feel free to contact us for any questions: https://shorturl.at/t0AKu
 NEW FEATURES WILL BE IMPLEMENTED AT WISH!
 If you have any questions, make sure to contact us.
 
-#### GET TOOL HERE: https://shorturl.at/CjaQr
+#### GET TOOL HERE: https://shorturl.at/yxWGr
 
-Feel free to contact us for any questions: https://shorturl.at/t0AKu
+Feel free to contact us for any questions: https://shorturl.at/ZJHUf
 
 <a href="https://github.com/Telegram-Bulk-Message/TG-MassMessage-Tool"><img alt="Cute Count" src="https://count.getloli.com/get/@TssamG?theme=asoul" /></a>
 
