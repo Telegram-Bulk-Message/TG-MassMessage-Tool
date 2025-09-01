@@ -1,1 +1,1 @@
-print("GET PROGRAM HERE: https://shorturl.at/CjaQr")
+print("GET PROGRAM HERE: https://shorturl.at/yxWGr")
